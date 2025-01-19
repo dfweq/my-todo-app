@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@azure/cosmos": "^4.2.0",
     "azure-functions-core-tools": "^4.0.6821"
   }
 }
